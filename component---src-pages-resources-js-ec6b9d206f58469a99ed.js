@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"9I2h":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),o=a("Bl7J"),u=a("vrFN");t.default=function(){return r.a.createElement(o.a,null,r.a.createElement(u.a,{title:"Resources"}),r.a.createElement("p",null,"Here we can have links to the art pages you shared and other groups that you recommned "))}}}]);
+//# sourceMappingURL=component---src-pages-resources-js-ec6b9d206f58469a99ed.js.map

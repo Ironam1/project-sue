@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"Cuy+":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),o=n("Bl7J"),i=n("vrFN");t.default=function(){return l.a.createElement(o.a,null,l.a.createElement(i.a,{title:"Contact"}),l.a.createElement("h3",null,"We will have a form for submitting eamils."),l.a.createElement("p",null,"Also include any other contact info you would like to display"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-dde9e445a026a6257b35.js.map
